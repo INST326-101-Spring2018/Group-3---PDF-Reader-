@@ -1,6 +1,6 @@
 This is our PDF Reader
 
-It can extract text, add watermarks, split PDF's into differnt files, combine two pdfs into one, and rotate PDF's 
+It can extract text, add watermarks, split PDF's into different files, combine two pdfs into one, and rotate PDF's 
 
 To test the watermark use the watermark.PDF.
 
